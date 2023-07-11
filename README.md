@@ -3,8 +3,8 @@ Unfinished Discord Bot with fishing functionality based on probability with plan
 
 
 Current Plans:
-Adding a score system with a highscore command to incentivize usage
-Custom messages with each fish caught
+Adding a score system with a highscore command to incentivize usage;
+Custom messages with each fish caught;
 Minigame?
 
 
